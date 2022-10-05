@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Nikhil Walia</h1>
 <h3 align="center">🚀 Full Stack Developer 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="nikhilwalia23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilwalia23" alt="nikhilwalia23" /> </p>
 
 - 🔭 I’m currently working on Travel Web App
 - 🌱 I’m currently learning Node & Python
