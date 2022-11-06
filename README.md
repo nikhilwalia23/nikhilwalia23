@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilwalia23" alt="nikhilwalia23" /> </p>
 
-- 🔭 I’m currently working on Travel Web App
+- 🔭 I’m currently working on Online Dating Web App (MILAN)
 - 🌱 I’m currently learning Node & Python
 - 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about Web dev related Stuff
